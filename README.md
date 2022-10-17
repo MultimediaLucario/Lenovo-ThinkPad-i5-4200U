@@ -1,4 +1,4 @@
-# ThinkPad T440 - OpenCore 0.6.2 Configuration
+# Lenovo ThinkPad OpenCore Configuration for any ThinkPad with an Intel Core i5-4**2**00U
 My ThinkPad T440 Configuration Using OpenCore to boot macOS Catalina. (Confirmed working for 10.15.7)
 
 SMBIOS is classed as a MacBook Air (13 Inch, Mid-2013) otherwise known as the MacBookAir6,2
