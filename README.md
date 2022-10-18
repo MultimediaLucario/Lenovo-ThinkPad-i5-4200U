@@ -1,14 +1,16 @@
-# Lenovo ThinkPad OpenCore Configuration for any ThinkPad with an Intel Core i5-4**2**00U
-My ThinkPad T440 Configuration Using OpenCore to boot macOS Catalina. (Confirmed working for 10.15.7)
+# Lenovo ThinkPad OpenCore EFI for the Intel Core i5-4**2**00U CPU
 
-SMBIOS is classed as a MacBook Air (13 Inch, Mid-2013) otherwise known as the MacBookAir6,2
+![repository-open-graph-template-sped-4200u](https://user-images.githubusercontent.com/72415505/196481503-7a208378-3e38-482c-aef7-bb32e0c764b3.png)
 
-**THIS THREAD IS NO LONGER BEING UPDATED, I DO NOT OWN THIS LAPTOP ANYMORE.**
 
-# !! Notice !!
-This configuration works for my T440, I'm not saying it will work for everyone but these are all the files and changes I had to do to make successful boots.
 
-I have also gone ahead and removed my Serial Number, MLB and SystemUUID, you will have to fill these in yourself.
+This is an OpenCore EFI Configuration that designed for any ThinkPad rocking an ```Intel Core i5-4200U``` to boot macOS Catalina. (Confirmed working for 10.15.7)
+
+The SMBIOS is classed as a ```MacBook Air (13 Inch, Mid-2013)``` otherwise known as ```MacBookAir6,2```.
+
+
+# ⚠️ Notice ⚠️
+macOS 10.15 Catalina is the only version of macOS that is guaranteed to work at this time.
 
 If you encounter any problems with this, leave it to issues or please push appropriate confirmed working fixes, thanks.
 
