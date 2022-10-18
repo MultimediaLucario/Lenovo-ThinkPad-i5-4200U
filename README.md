@@ -6,7 +6,7 @@
 
 This is an OpenCore EFI Configuration that designed for any ThinkPad rocking an ```Intel Core i5-4200U``` to boot macOS Catalina. (Confirmed working for 10.15.7)
 
-The SMBIOS is classed as a ```MacBook Air (13 Inch, Mid-2013)``` otherwise known as ```MacBookAir6,2```.
+The SMBIOS is classified as a ```MacBook Air (13 Inch, Mid-2013)``` otherwise known as ```MacBookAir6,2```.
 
 
 # ⚠️ Notice ⚠️
